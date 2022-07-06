@@ -15,3 +15,5 @@ https://blog.talosintelligence.com/2022/05/conti-and-hive-ransomware-operations.
 https://twitter.com/vxunderground/status/1522211328881938434
 
 https://www.securityweek.com/costa-rica-public-health-system-targeted-ransomware
+
+https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades-in-rust/
