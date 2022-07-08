@@ -19,3 +19,5 @@ https://www.securityweek.com/costa-rica-public-health-system-targeted-ransomware
 https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades-in-rust/
 
 https://www.securityweek.com/evasive-rust-coded-hive-ransomware-variant-emerges
+
+https://www.databreaches.net/scoop-hive-claims-responsibility-for-attack-on-artear-the-argentinian-multimedia-giant/
