@@ -23,3 +23,5 @@ https://www.securityweek.com/evasive-rust-coded-hive-ransomware-variant-emerges
 https://www.databreaches.net/scoop-hive-claims-responsibility-for-attack-on-artear-the-argentinian-multimedia-giant/
 
 https://arxiv.org/abs/2202.08477
+
+https://seed.kisa.or.kr/kisa/Board/133/detailView.do
