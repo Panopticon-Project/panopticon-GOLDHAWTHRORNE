@@ -21,3 +21,5 @@ https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades
 https://www.securityweek.com/evasive-rust-coded-hive-ransomware-variant-emerges
 
 https://www.databreaches.net/scoop-hive-claims-responsibility-for-attack-on-artear-the-argentinian-multimedia-giant/
+
+https://arxiv.org/abs/2202.08477
