@@ -25,3 +25,5 @@ https://www.databreaches.net/scoop-hive-claims-responsibility-for-attack-on-arte
 https://arxiv.org/abs/2202.08477
 
 https://seed.kisa.or.kr/kisa/Board/133/detailView.do
+
+https://github.com/reecdeep/HiveV5_keystream_decryptor
