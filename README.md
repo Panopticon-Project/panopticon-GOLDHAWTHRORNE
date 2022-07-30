@@ -29,3 +29,5 @@ https://seed.kisa.or.kr/kisa/Board/133/detailView.do
 https://github.com/reecdeep/HiveV5_keystream_decryptor
 
 https://yoroi.company/research/on-the-footsteps-of-hive-ransomware/
+
+https://therecord.media/ransomware-group-demands-500000-from-british-schools-citing-cyber-insurance-policy/
