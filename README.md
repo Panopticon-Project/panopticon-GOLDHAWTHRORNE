@@ -33,3 +33,5 @@ https://yoroi.company/research/on-the-footsteps-of-hive-ransomware/
 https://therecord.media/ransomware-group-demands-500000-from-british-schools-citing-cyber-insurance-policy/
 
 https://therecord.media/canadian-police-investigating-ransomware-attack-on-bell-subsidiary-after-employee-data-stolen
+
+https://therecord.media/cyberattack-on-new-york-racing-association-leaked-personal-info-of-employees/
