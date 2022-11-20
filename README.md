@@ -37,3 +37,5 @@ https://therecord.media/canadian-police-investigating-ransomware-attack-on-bell-
 https://therecord.media/cyberattack-on-new-york-racing-association-leaked-personal-info-of-employees/
 
 https://therecord.media/cisa-hive-ransomware-has-netted-more-than-100-million-from-over-1300-victims/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
