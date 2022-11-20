@@ -35,3 +35,5 @@ https://therecord.media/ransomware-group-demands-500000-from-british-schools-cit
 https://therecord.media/canadian-police-investigating-ransomware-attack-on-bell-subsidiary-after-employee-data-stolen
 
 https://therecord.media/cyberattack-on-new-york-racing-association-leaked-personal-info-of-employees/
+
+https://therecord.media/cisa-hive-ransomware-has-netted-more-than-100-million-from-over-1300-victims/
