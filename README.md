@@ -41,3 +41,5 @@ https://therecord.media/cisa-hive-ransomware-has-netted-more-than-100-million-fr
 https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
 
 https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/
+
+https://therecord.media/personal-data-from-270000-patients-was-leaked-in-louisiana-hospital-cyberattack/
