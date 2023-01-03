@@ -43,3 +43,5 @@ https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
 https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multiple-ransomware-groups-post-stolen-data/
 
 https://therecord.media/personal-data-from-270000-patients-was-leaked-in-louisiana-hospital-cyberattack/
+
+https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-sensitive-data/
