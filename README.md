@@ -45,3 +45,5 @@ https://therecord.media/toy-maker-jakks-pacific-reports-cyberattack-after-multip
 https://therecord.media/personal-data-from-270000-patients-was-leaked-in-louisiana-hospital-cyberattack/
 
 https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-sensitive-data/
+
+https://therecord.media/cisa-hive-ransomware-has-netted-more-than-100-million-from-over-1300-victims/
