@@ -47,3 +47,5 @@ https://therecord.media/personal-data-from-270000-patients-was-leaked-in-louisia
 https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-sensitive-data/
 
 https://therecord.media/cisa-hive-ransomware-has-netted-more-than-100-million-from-over-1300-victims/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
