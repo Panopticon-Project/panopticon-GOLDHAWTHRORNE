@@ -49,3 +49,5 @@ https://therecord.media/north-carolina-college-confirms-ransomware-group-stole-s
 https://therecord.media/cisa-hive-ransomware-has-netted-more-than-100-million-from-over-1300-victims/
 
 https://www.cisa.gov/uscert/ncas/alerts/aa22-321a
+
+https://www.rapid7.com/blog/post/2023/01/11/increasing-the-sting-of-hive-ransomware/
